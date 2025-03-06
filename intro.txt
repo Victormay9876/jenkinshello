@@ -1,0 +1,70 @@
+Sure
+ 
+Currently I am working in lululemon 
+as a AWS / DevOps Engineer.
+I am responsible for taking care of 
+day to day build and deployment 
+activities,Build issues,deployment issues
+and Elevation of code changes, database 
+changes, and configuration changes.
+ 
+And I am working on any changes
+across the SDLC into production.
+I am working on Designed and managed public
+and private cloud infrastructures using
+Amazon Web Services (AWS) which include
+EC2, S3, Elastic File System,RDS,VPC
+Direct Connect, Route53, 
+Cloud Watch, Cloud Trail, Cloud Formation,
+and IAM which allowed automated 
+operations. 
+As well as a team We constructed a formidable 
+CI/CD Pipeline process which was build 
+based on Jenkins as a Continuous 
+Integration Tool this includes 
+creating maven builds and docker images.
+
+We achieved configuration management
+throughout the infrastructure by using  
+Ansible.Where I was involved in writing 
+playbooks in Ansible using yaml
+scripting for the purpose of automating
+the process.Besides that I have also experience
+in designing cloud architecture and 
+bash scripting, and maintaining web
+application servers such as Tomcat Apache.
+
+I also worked with various teams
+analyzing their build and
+deployment procedures to find out 
+if there is any room for automation
+and if there is any possibility
+automating them. 
+
+
+I am Akshith and I have  my 5+ years
+ of experience as build ,release,
+ and AWS / DevOps Engineer I have a
+ strong background in automating
+ infrastructure, optimizing cloud
+ operations, and implementing CI/CD
+ pipelines. With expertise in AWS and
+ Azure cloud platforms, I specialize
+ in Infrastructure as Code (IaC),
+ Configuration Management, and Release
+ Planning. My experience spans across
+ multiple industries, where I have
+ successfully designed and deployed
+ scalable, secure, and cost-efficient
+ cloud environments.
+
+
+
+
+
+
+
+
+
+
+

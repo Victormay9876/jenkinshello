@@ -1,0 +1,40 @@
+Lululemon
+
+At Lululemon, I’ve been involved in 
+designing and maintaining scalable,
+ secure, and cost-effective cloud 
+infrastructure as a Cloud DevOps Engineer.
+ My role focuses on automating 
+deployments, optimizing cloud security,
+ and streamlining CI/CD pipelines.
+I’ve worked with AWS services 
+like EKS, Lambda, and CloudFormation,
+ using Terraform to manage infrastructure
+ as code. I’ve involved in running 
+security scans, enforcing IAM policies 
+to ensure proper access controls,
+ managing secrets rotation to keep 
+credentials secure, and continuously
+ monitoring AWS accounts to maintain
+ complianc. I’ve been optimizing cloud
+ costs by automating processes with 
+Lambda functions and CloudWatch Event
+ Rules, helping to reduce unnecessary 
+spending and improve efficiency.
+Other than that, I manage Amazon
+ EKS clusters—handling upgrades,
+ securing access, and automating 
+deployments. I’ve implemented
+ solutions like injecting secrets
+ into applications using AWS Secrets
+ Manager and developing monitoring 
+alerts for EKS events. 
+I have standardized application
+ deployment configurations across
+ multiple environments, reducing 
+complexity and improving efficiency.
+I’ve documented processes,
+ recorded implementations,
+ and provided deployment support,
+ ensuring smooth operations
+ in production.

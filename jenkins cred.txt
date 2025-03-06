@@ -1,0 +1,16 @@
+id:victormarch
+pass:Victor/08
+link:http://localhost:8080/
+
+a35742643db44e5894ab206edd9183f1
+
+id :victormarch
+pass:August@1428
+link:http://localhost:8090/Jenkins/
+
+a58fb8480c4d4dce933a377244de1ea2
+
+user1:
+alex-id
+alex-pass
+axt77980@ucmo.edu
