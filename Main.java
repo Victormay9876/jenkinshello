@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, world!");
-        System.out.println("i am chitti,the AI powered ROBOT ");
+        System.out.println("i am chitti 2.o,the AI powered ROBOT ");
     }
 
 
